@@ -1,0 +1,123 @@
+Adam Ruben’s tongue-in-cheek column about the common difficulties and frustrations of reading a scientific paper broadly resonated among Science Careers readers. Many of you have come to us asking for more (and more serious) advice on how to make sense of the scientific literature, so we’ve asked a dozen scientists at different career stages and in a broad range of fields to tell us how they do it. Although it is clear that reading scientific papers becomes easier with experience, the stumbling blocks are real, and it is up to each scientist to identify and apply the techniques that work best for them. The responses have been edited for clarity and brevity.
+
+How do you approach reading a paper?
+I start by reading the abstract. Then, I skim the introduction and flip through the article to look at the figures. I try to identify the most prominent one or two figures, and I really make sure I understand what's going on in them. Then, I read the conclusion/summary. Only when I have done that will I go back into the technical details to clarify any questions I might have.
+- Jesse Shanahan, master's candidate in astronomy at Wesleyan University in Middletown, Connecticut
+
+I first get a general idea by reading the abstract and conclusions. The conclusions help me understand if the goal summarized in the abstract has been reached, and if the described work can be of interest for my own study. I also always look at plots/figures, as they help me get a first impression of a paper. Then I usually read the entire article from beginning to end, going through the sections in the order they appear so that I can follow the flow of work that the authors want to communicate.
+
+If you want to make it a productive exercise, you need to have a clear idea of which kind of information you need to get in the first place, and then focus on that aspect. It could be to compare your results with the ones presented by the authors, put your own analysis into context, or extend it using the newly published data. Citation lists can help you decide why the paper may be most relevant to you by giving you a first impression of how colleagues that do similar research as you do may have used the paper.
+- Cecilia Tubiana, scientist at the Max Planck Institute for Solar System Research in Göttingen, Germany
+
+If I’m aiming to just get the main points, I’ll read the abstract, hop to the figures, and scan the discussion for important points. I think the figures are the most important part of the paper, because the abstract and body of the paper can be manipulated and shaped to tell a compelling story. Then anything I’m unclear about, I head to the methodology.
+
+More from our How-To series
+old library
+How to keep up with the scientific literature
+someone correcting a paper
+How to review a paper
+poster session at a conference
+How to get the most out of attending conferences
+Read the full list of How-Tos
+If I want to delve deeper into the paper, I typically read it in its entirety and then also read a few of the previous papers from that group or other articles on the same topic. If there is a reference after a statement that I find particularly interesting or controversial, I also look it up. Should I need more detail, I access any provided data repositories or supplemental information.
+
+Then, if the authors' research is similar to my own, I see if their relevant data match our findings or if there are any inconsistencies. If there are, I think about what could be causing them. Additionally, I think about what would happen in our model if we used the same methods as they did and what we could learn from that. Sometimes, it is also important to pay attention to why the authors decided to conduct an experiment in a certain way. Did the authors use an obscure test instead of a routine assay, and why would they do this?
+- Jeremy C. Borniger, doctoral candidate in neuroscience at Ohio State University, Columbus
+
+I always start with title and abstract. That tells me whether or not it’s an article I’m interested in and whether I’ll actually be able to understand it—both scientifically and linguistically. I then read the introduction so that I can understand the question being framed, and jump right to the figures and tables so I can get a feel for the data. I then read the discussion to get an idea of how the paper fits into the general body of knowledge.
+
+I pay attention to acknowledgement of limitations and proper inference of data. Some people stretch their claims more than others, and that can be a red flag for me. I also put on my epidemiologist hat so that I can try to make sure the study design is adequate to actually test the hypotheses being examined.
+
+As I go deeper into the argument framing, figures, and discussion, I also think about which pieces are exciting and new, which ones are biologically or logically relevant, and which ones are most supported by the literature. I also consider which pieces fit with my pre-existing hypotheses and research questions.
+- Kevin Boehnke, doctoral candidate in environmental health sciences at the University of Michigan, Ann Arbor
+
+My reading strategy depends on the paper. Sometimes I start by skimming through to see how much might be relevant. If it is directly applicable to my current topic, I’ll read the paper closely, apart from the introduction that is probably already familiar. But I always try to figure out if there are particular places or figures that I need to pay close attention to, and then I go and read the related information in the results and discussion.
+
+I also check if there are references that I may be interested in. Sometimes I am curious to see who in the field has—or more likely has not—been referenced, to see whether the authors are choosing to ignore certain aspects of the research. I often find that the supplementary figures actually offer the most curious and interesting results, especially if the results relate to parts of the field that the authors did not reference or if they are unclear or unhelpful to their interpretation of the overall story.
+- Gary McDowell, postdoctoral fellow in developmental biology at Tufts University in  Medford, Massachusetts, and visiting scholar at Boston College
+
+When reading papers, it helps me to have a writing task so that I am being an active reader instead of letting my eyes glaze over mountains of text only to forget everything I just read. So for example, when I read for background information, I will save informative sentences from each article about a specific topic in a Word document. I'll write comments along the way about new ideas I got or questions I need to explore further. Then, in the future, I’ll only need to read this document instead of re-reading all the individual papers.
+
+Likewise, when I want to figure out how to conduct a particular experiment, I create a handy table in Excel summarizing how a variety of research teams went about doing a particular experiment.
+- Lina A. Colucci, doctoral candidate at the Harvard-MIT Health Sciences and Technology program
+
+I usually start with the abstract, which gives me a brief snapshot of what the study is all about. Then I read the entire article, leaving the methods to the end unless I can't make sense of the results or I'm unfamiliar with the experiments.
+
+The results and methods sections allow you to pull apart a paper to ensure it stands up to scientific rigor. Always think about the type of experiments performed, and whether these are the most appropriate to address the question proposed. Ensure that the authors have included relevant and sufficient numbers of controls. Often, conclusions can also be based on a limited number of samples, which limits their significance.
+
+I like to print out the paper and highlight the most relevant information, so on a quick rescan I can be reminded of the major points. Most relevant points would be things that change your thinking about your research topic or give you new ideas and directions.
+- Lachlan Gray, deputy head of the HIV Neuropathogenesis Lab at the Burnet Institute and adjunct research fellow in the Department of Infectious Disease at Monash University in Melbourne, Australia
+
+What I choose to read is based on relation to my research areas and things that are generating lots of interest and discussion because they are driving the way we do psychology, or science more widely, in new directions. Most often, what I am trying to get out of the papers is issues of methodology, experimental design, and statistical analysis. And so for me, the most important section is first what the authors did (methods) and second what they found (results).
+
+It can also be interesting to understand why the authors thought they were doing the study (introduction) and what they think the results mean (discussion). When it is an area that I know a lot about, I don't usually care much about these sections because they often reflect the authors' theoretical predilections and one of many ways to think about the method and results. But when it is an area that I know very little about, I read these closely because then I learn a lot about the assumptions and explanatory approaches in that area of research.
+- Brian Nosek, professor in the Department of Psychology at the University of Virginia and executive director of the Center for Open Science in Charlottesville
+
+First I read very fast: The point of the first reading is simply to see whether the paper is interesting for me. If it is I read it a second time, slower and with more attention to detail.
+
+If the paper is vital to my research—and if it is theoretical—I would reinvent the paper. In such cases, I only take the starting point and then work out everything else on my own, not looking into the paper. Sometimes this is a painfully slow process. Sometimes I get angry about the authors not writing clearly enough, omitting essential points and dwelling on superfluous nonsense. Sometimes I am electrified by a paper.
+- Ulf Leonhardt, professor of physics at the Weizmann Institute of Science in Rehovot, Israel
+
+I nearly always read the abstract first and only continue on to the paper if the abstract indicates that the paper will be of value to me. Then, if the topic of the paper is one I know well, I generally skim the introduction, reading its last paragraph to make sure I know the specific question being addressed in the paper. Then I look at the figures and tables, either read or skim the results, and lastly skim or read the discussion.
+
+If the topic is not one I know well, I usually read the introduction much more carefully so that the study is placed into context for me. Then I skim the figures and tables and read the results.
+- Charles W. Fox, professor in the Department of Entomology at the University of Kentucky in Lexington
+
+It is important to realize that shortcuts have to be taken when reading papers so that there is time left to get our other work done, including writing, conducting research, attending meetings, teaching, and grading papers. Starting as a Ph.D. student, I have been reading the conclusions and methods of academic journal articles and chapters rather than entire books.
+- Rima Wilkes, professor in the Department of Sociology at the University of British Columbia, Vancouver
+
+As editor-in-chief of Science, I have to read and comprehend papers outside of my field all the time. Generally, I start with the corresponding editors’ summaries, which are meant for someone like me: a science generalist who is interested in everything but dives deeply only into one field. Next, I check to see if someone wrote a News article on the paper. Third, I check to see if there is a Perspective by another scientist. The main goal of a Perspective is to broaden the message of the paper, but often the authors do a great job of extracting the essence of the article for non-specialists at the same time.
+
+Then I tackle the abstract, which has been written to broadly communicate to the readership of the journal. Finally, I move on to the paper itself, reading, in order, the intro, conclusions, scanning the figures, and then reading the paper through.
+- Marcia K. McNutt, Editor-in-Chief, Science journals
+
+What do you do when there is something you don’t understand?
+I like to read online so that I can easily cut and paste words I don’t know into a browser to check what they mean.
+- McNutt
+
+If it's only a few things in the article, I'll make a note to look them up later. If I am really struggling to proceed through the paper, I try to look up a review article or a textbook chapter to give me the necessary background to proceed, which I generally find much more efficient.
+
+There are a lot of acronyms and jargon that can be subfield-specific, so I usually don't wade through the details unless it's for my own research. But I always try to take my time to really understand the methods being used.
+- Shanahan
+
+I will typically pause immediately to look up things I don’t understand. The rest of the reading may not make sense if I don’t understand a key phrase or jargon. This can backfire a bit, though, as I often go down never-ending rabbit holes after looking something up (What is X? Oh, X influences Y. … So what’s Y? etc…). This can be sort of fun as you learn how everything is connected, but if you’re crunched for time this can pull your attention away from the task at hand.
+
+Sometimes, all the jargon in a paper can cloud the whole point of the experiments in the first place. In such cases, it helps to ask yourself, “What question were the authors trying to answer?” Then you can determine whether they succeeded or failed.
+- Borniger
+
+It depends on how much the non-understandable bits prevent me from following the main ideas. I usually do not try to understand all the details in all the sections the first time I read a paper. If non-understandable parts appear important for my research, I try to ask colleagues or even contact the lead author directly. Going back to the original references to get all the background information is the last resort, because time can be limited and collaborations and personal contacts can be much more efficient in solving specific problems.
+- Tubiana
+
+Sometimes, you can just read through a paper and any terms you're not familiar with will become clearer by the end. If it is very heavy going, then stopping and seeking additional information is usually the way to go. I do a quick Google search on the topic, theme, method, jargon, etc. If it is a very dense article, sometimes it will require a few read-throughs before it all starts to make sense.
+- Gray
+
+The question I ask myself is, “Do I need to understand what that means in order to get what I need from this paper?” I now read articles in research areas well outside of my expertise, and I often don't need more than superficial knowledge of the substantive content. If I can't do anything with the paper unless I don't understand that depth, then I do more background research.
+- Nosek
+
+Lately, I have had to read a number of papers outside my area of expertise with a lot of unfamiliar jargon. In some cases, I am able to directly extract the information I need from the results or figures and tables. In other cases, I use Google searches to define terms and concepts in the paper or read the cited references to better understand the points being made. Occasionally, papers are so incomprehensible (to me, at least) that I don't bother reading them.
+- Fox
+
+Do you ever feel overwhelmed reading papers, and how do you deal with that?
+All the time. If the paper is relevant to a problem I am trying to solve, you can be sure that there are key things in the paper that I do not understand. That confusion is not a threat; it is an opportunity. I am ignorant; I need to become less ignorant. This paper may help me.
+
+Simultaneously, some papers are written terribly and are not worth the effort. Someone else has surely written about the concepts more clearly so that I can keep my confusion focused on understanding substance rather than poor grammar.
+- Nosek
+
+I especially get overwhelmed if it's not in my subfield, if it's long, and if it's full of technical jargon. When this happens, I break it down into chunks and will read it over the course of a few days, if possible. For really difficult papers, it also helps to sit down and work through it with a colleague.
+- Shanahan
+
+Yes, many times. This is why I developed my own reading strategies, by talking to other scientists and by trial and error. I also have thrown up my hands in frustration and tossed the offending papers away, never to read them again.
+- Boehnke
+
+Yes, and in these cases you have to realize that some papers are the result of years of work by dozens of scientists. Expecting to digest and understand everything in it in one afternoon is a far-fetched idea.
+- Borniger
+
+I have often felt overwhelmed! But certain sections might not need as deep an understanding as others. You also need to know your own limits: Are there some parts of the paper that you would like to emulate but are not part of your expertise and might become “accessible” through collaborations?
+- Tubiana
+
+If I feel the paper is very important to what I’m doing, I’ll leave it a while and go back to it again a couple of times. But if it’s too overwhelming, then I have to leave it aside, unless someone among the colleagues I have contacted has been able to interpret it.
+- McDowell
+
+Do you have any other tips you’d like to share?
+If there is a seminal paper I want to thoroughly understand, I find some way to give a journal club-style presentation about it. Speaking about a particular paper and answering questions is the best way for me to learn the material.
+

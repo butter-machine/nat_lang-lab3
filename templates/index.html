@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+    </head>
+
+    <body>
+        {% for file in files %}
+            <a href="{% url 'abstract' document=file %}"> {{ file }} </a>
+            <br>
+        {% endfor %}
+    </body>
+
+</html>

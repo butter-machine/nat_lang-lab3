@@ -16,6 +16,10 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 
+from Lab_3.views import IndexView, AbstractView
+
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('', IndexView.as_view()),
+    path('abstract/<document>', AbstractView.as_view(), name='abstract')
 ]
