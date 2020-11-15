@@ -3,17 +3,42 @@ from math import log
 from typing import List, Any
 
 import nltk
+from langdetect import detect
 from django.core.files.base import ContentFile
 from nltk.corpus import stopwords
 
 from Lab_3.settings import FILES_DIR
 
 
+class English:
+    stopwords = set(stopwords.words('english'))
+    sentence_tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
+    stemmer = nltk.PorterStemmer()
+
+
+class Russian:
+    stopwords = set(stopwords.words('russian'))
+    sentence_tokenizer = nltk.data.load('tokenizers/punkt/russian.pickle')
+    stemmer = nltk.PorterStemmer()
+
+
 class LanguageService:
-    def __init__(self):
-        self.sentence_tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
+    def __init__(self, text_sample):
+        lang = self.detect_lang(text_sample)
+
+        if lang == 'en':
+            self.language = English()
+        elif lang == 'ru':
+            self.language = Russian()
+
+        self.sentence_tokenizer = self.language.sentence_tokenizer
         self.tokenizer = nltk.tokenize.RegexpTokenizer(r'\w+')
-        self.stemmer = nltk.PorterStemmer()
+        self.stemmer = self.language.stemmer
+        self.stopwords = self.language.stopwords
+
+    @staticmethod
+    def detect_lang(text):
+        return detect(text)
 
     @staticmethod
     def paragraphs(text: str):
@@ -22,10 +47,8 @@ class LanguageService:
     def sentences(self, text: str):
         return self.sentence_tokenizer.tokenize(text)
 
-    @staticmethod
-    def _clean_tokens(tokens: List[str]):
-        stop_words = set(stopwords.words('english'))
-        return [token.lower() for token in tokens if token not in stop_words]
+    def _clean_tokens(self, tokens: List[str]):
+        return [token.lower() for token in tokens if token not in self.stopwords]
 
     def _stem_tokens(self, tokens: list):
         return [self.stemmer.stem(token) for token in tokens]
@@ -39,8 +62,8 @@ class LanguageService:
 
 
 class StatisticsService:
-    def __init__(self):
-        self.language_service = LanguageService()
+    def __init__(self, sample_text):
+        self.language_service = LanguageService(sample_text)
 
     @staticmethod
     def _sentence_position_function(relative_text: str, sentence: str):
