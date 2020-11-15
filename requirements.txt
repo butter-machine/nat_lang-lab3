@@ -1,0 +1,12 @@
+asgiref==3.2.10
+click==7.1.2
+Django==3.1.2
+gunicorn==20.0.4
+joblib==0.17.0
+langdetect==1.0.8
+nltk==3.5
+pytz==2020.1
+regex==2020.10.23
+six==1.15.0
+sqlparse==0.4.1
+tqdm==4.50.2
